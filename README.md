@@ -2,7 +2,7 @@
 ## NAME : PRABHAKARAN P
 ## REGISTER NO : 212224040236
 ## EXP NO : 5
-
+## DATE : 17/03/2026
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
 ## AIM:
